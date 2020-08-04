@@ -62,7 +62,7 @@ include("homenavbar.php");
 						<div class="hover">
 							<h4>New to our website?</h4>
 							<p>Create your own fashion account,and keep slaying with Babu Fashion</p>
-							<a class="primary-btn" href="userregister.php">Create an Account</a>
+							<a class="primary-btn" href="user/userregister.php">Create an Account</a>
 						</div>
 					</div>
 				</div>
